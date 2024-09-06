@@ -4,7 +4,7 @@
     "jsx": "react",
     "module": "commonjs",
     "resolveJsonModule": true,
-    "outDir": "dist",
+    "outDir": "marketplace",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
