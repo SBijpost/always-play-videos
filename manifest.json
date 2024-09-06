@@ -1,6 +1,6 @@
 {
   "name": "Always Play Videos",
-  "description": "An extension that adds a button to always play videos",
+  "description": "An extension that adds a button to always play videos. RED = ON",
   "preview": "marketplace/img.png",
   "main": "marketplace/always-play-videos.js",
   "readme": "README.md"
