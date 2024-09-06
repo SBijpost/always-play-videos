@@ -1,4 +1,4 @@
-# Always Play Video
+# Always Play Videos
 
 Default behavior of Spotify is that you can select a song with a video, toggle to the video and it plays. 
 When you then play another song that has a video, you have to toggle video mode again. I wanted to be able to switch between audio and video mode like on Youtube Music. So this extension accomplishes that.
