@@ -26,6 +26,3 @@ Will probably improve the button later.
 ## Made with Spicetify Creator
 
 - https://github.com/spicetify/spicetify-creator
-
-## credits
-spicetify-cat-jam-synced - took inspiration from the readme cuz im lazy.
