@@ -1,9 +1,7 @@
 async function main() {
     if (
         !(
-            Spicetify.React &&
-            Spicetify.ReactDOM &&
-            Spicetify.SVGIcons &&
+            Spicetify.Player &&
             Spicetify.Platform
         )
     ) {
