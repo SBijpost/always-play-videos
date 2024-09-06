@@ -204,6 +204,7 @@ declare namespace Spicetify {
 		itemIndex: number;
 	};
 	type PlayerTrack = {
+		hasAssociatedVideo: boolean;
 		type: string;
 		uri: string;
 		uid: string;

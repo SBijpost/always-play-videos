@@ -2,7 +2,8 @@ async function main() {
     if (
         !(
             Spicetify.Player &&
-            Spicetify.Platform
+            Spicetify.Platform &&
+            Spicetify.Playbar
         )
     ) {
         setTimeout(main, 10);
@@ -23,7 +24,7 @@ async function main() {
     );
 
     async function switchToVideoIfExists() {
-        const itemHasAssociatedVideo = Spicetify.Player.data.item?.hasAssociatedVideo!;
+        const itemHasAssociatedVideo = Spicetify.Player.data.item?.hasAssociatedVideo;
         if (itemHasAssociatedVideo && Spicetify.Player.data.item.mediaType !== "video") {
             await Spicetify.Platform.PlayerAPI.sendSignal("switch-to-video", 1);
         }
