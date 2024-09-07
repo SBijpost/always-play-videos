@@ -18,6 +18,7 @@ TO-DO Improvements:
 - The button.
 - Better feedback
 - Change the song in the queue to video mode instead of when it starts playing
+- Idea: if a song doesn't have a video, fetch a video from youtube or something
 - ??
   
 # Changelog 📋
