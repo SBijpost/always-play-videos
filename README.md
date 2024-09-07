@@ -16,7 +16,9 @@ This functionality can be toggled by the projector button on the playbar.
 
 TO-DO Improvements:
 - The button.
+- Better feedback
 - Change the song in the queue to video mode instead of when it starts playing
+- ??
   
 # Changelog 📋
 
