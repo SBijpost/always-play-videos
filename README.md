@@ -14,13 +14,15 @@ This functionality can be toggled by the projector button on the playbar.
 
 ![image](https://github.com/user-attachments/assets/5b9e6e46-f9af-4791-b8bd-0c070144d08f)
 
-<h3>TO-DO Improvements</h3>:
+<h3>TO-DO Improvements:</h3>
+
 - The "button".
 - Better feedback
 - Change the song in the queue to video mode instead of when it starts playing
 - ??
 
 <h3>Future Ideas</h3>
+
 - If a song doesn't have a video, play a video from youtube or something
 - Filter playlists to only show songs with videos
 - Remove songs from queue with no video
